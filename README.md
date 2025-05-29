@@ -1,8 +1,5 @@
 # Hi there, I'm Mohamed Ahmed Mohamed Abdallah 👋
 
-<a href="https://linkedin.com/in/mohamedahmed2026"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:mohamedahamed912@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-
 I'm a third-year Computer Science and Artificial Intelligence student at Cairo University with a strong foundation in AI algorithm optimization, full-stack web development, and systems programming. I enjoy building scalable solutions and tackling real-world challenges.
 
 🚀 Currently seeking a **Summer 2025 Internship** where I can apply my algorithmic expertise and agile teamwork skills.
@@ -11,11 +8,10 @@ I'm a third-year Computer Science and Artificial Intelligence student at Cairo U
 
 ### 🎓 Education
 
-*   **B.S. in Computer Science and Artificial Intelligence** | Cairo University, Egypt
+*  **B.S. in Computer Science and Artificial Intelligence** | Cairo University, Egypt
     *   Expected Graduation: June 2026
     *   GPA: 3.28/4.00 (First term / 2025)
-    *   *Relevant Coursework:* Structured Programming (A+), Data Structures (B+), Algorithms Analysis and Design (B+), Web Technology (B+), Artificial Intelligence (Ongoing), High Performance Computing (Ongoing)
-    *   
+    *   *Relevant Coursework:* Structured Programming (A+), Data Structures (B+), Algorithms Analysis and Design (B+), Web Technology (B+), Artificial Intelligence (Ongoing),                High Performance Computing (Ongoing)
 ---
 
 ### 🔧 Technologies & Tools
