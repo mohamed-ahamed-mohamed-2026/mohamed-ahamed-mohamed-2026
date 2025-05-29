@@ -11,7 +11,7 @@ I'm a third-year Computer Science and Artificial Intelligence student at Cairo U
 *  **B.S. in Computer Science and Artificial Intelligence** | Cairo University, Egypt
     *   Expected Graduation: June 2026
     *   GPA: 3.28/4.00 (First term / 2025)
-    *   *Relevant Coursework:* Structured Programming (A+), Data Structures (B+), Algorithms Analysis and Design (B+), Web Technology (B+), Artificial Intelligence (Ongoing),                High Performance Computing (Ongoing)
+    *   *Relevant Coursework:* Structured Programming (A+), Data Structures (B+), Algorithms Analysis and Design (B+), Web Technology (B+), Artificial Intelligence (Ongoing), High Performance Computing (Ongoing)
 ---
 
 ### 🔧 Technologies & Tools
