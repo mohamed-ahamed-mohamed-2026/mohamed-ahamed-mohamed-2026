@@ -51,7 +51,7 @@ I'm a third-year Computer Science and Artificial Intelligence student at Cairo U
 
 ### 🌱 I'm Currently Learning
 
-*   [Mention any new technologies, concepts, or ongoing personal projects]
+*   C# , Dot Net Backend
 *   Deepening my understanding of High Performance Computing.
 
 ---
