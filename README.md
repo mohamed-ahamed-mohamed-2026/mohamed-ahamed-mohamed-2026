@@ -29,20 +29,22 @@ I'm a third-year Computer Science and Artificial Intelligence student at Cairo U
 1.  **🤖 Gomoku Game Solver (Python)**
     *   Developed an AI-powered solver using Minimax and Alpha-Beta Pruning, achieving a 30% improvement in search efficiency.
     *   Collaborated in a 5-member team, delivering under tight deadlines.
+    *   *Note: This was a university project. Code can be discussed and demonstrated upon request.*
 
 2.  **📝 Web-Based Task Manager (HTML, CSS, JavaScript, Django)**
     *   Built a responsive web application with user authentication and task management for 10+ users, utilizing an SQLite backend.
     *   Worked in a 3-member team employing agile practices.
+    *   *Note: Project details and demonstration available upon request.*
 
 3.  **✈️ Drone Navigation System (Prolog)**
     *   Designed a logic-based 5x5 grid solver for drone pathfinding using Depth-First Search (DFS).
+    *   *Note: Conceptual project from coursework. Implementation details can be discussed.*
  
 4.  **🔒 Kernel Deadlock Detection (C, Linux Kernel)**
     *   Created a kernel module for QEMU to detect deadlocks, verified via system logs.
     *   Completed as a team-based systems programming project.
-
-
-
+    *   *Note: University systems programming project. Happy to discuss the design and outcomes.*
+    
 ---
 
 ### 🌱 I'm Currently Learning
