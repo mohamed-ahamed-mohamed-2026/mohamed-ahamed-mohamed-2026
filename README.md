@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed Ahmed Mohamed Abdallah 👋
 
 <a href="https://linkedin.com/in/mohamedahmed2026"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<!-- <a href="mailto:mohamedahamed912@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> -->
+<a href="mailto:mohamedahamed912@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 I'm a third-year Computer Science and Artificial Intelligence student at Cairo University with a strong foundation in AI algorithm optimization, full-stack web development, and systems programming. I enjoy building scalable solutions and tackling real-world challenges.
 
