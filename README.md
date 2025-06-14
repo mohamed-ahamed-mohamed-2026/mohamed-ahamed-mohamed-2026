@@ -33,7 +33,7 @@ I'm a third-year Computer Science and Artificial Intelligence student at Cairo U
 
 2.  **📝 Web-Based Task Manager (HTML, CSS, JavaScript, Django)**
     *   Built a responsive web application with user authentication and task management for 10+ users, utilizing an SQLite backend.
-    *   Worked in a 3-member team employing agile practices.
+    *   Worked in a 5-member team employing agile practices.
     *   *Note: Project details and demonstration available upon request.*
 
 3.  **✈️ Drone Navigation System (Prolog)**
