@@ -14,7 +14,7 @@ I'm a third-year Computer Science and Artificial Intelligence student at Cairo U
     *   *Relevant Coursework:* Structured Programming (A+), Data Structures (B+), Algorithms Analysis and Design (B+), Web Technology (B+), Artificial Intelligence (Ongoing), High Performance Computing (Ongoing)
 ---
 
-### 🔧 Technologies & Tools
+### 🔧 Skills
 
 *   **Languages:** C++, Python, Php, Java, JavaScript, SQL, Prolog, C
 *   **Web Development:** HTML, CSS, JavaScript, Django, Laravel, REST APIs
@@ -45,6 +45,13 @@ I'm a third-year Computer Science and Artificial Intelligence student at Cairo U
     *   Created a kernel module for QEMU to detect deadlocks, verified via system logs.
     *   Completed as a team-based systems programming project.
     *   *Note: University systems programming project. Happy to discuss the design and outcomes.*
+  
+
+
+### Offered Services 
+
+*   **Integrated Website**
+
 
 <!--    
 ---
