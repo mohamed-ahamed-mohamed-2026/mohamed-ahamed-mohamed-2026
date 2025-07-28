@@ -1,4 +1,4 @@
-# Hi there, I'm Mohamed Ahmed Mohamed Abdallah 👋
+# Hi there, Mohamed Abdallah | Web Developer 👋
 
 I'm a third-year Computer Science and Artificial Intelligence student at Cairo University with a strong foundation in AI algorithm optimization, full-stack web development, and systems programming. I enjoy building scalable solutions and tackling real-world challenges.
 
