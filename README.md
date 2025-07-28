@@ -2,8 +2,8 @@
 
 I'm a third-year Computer Science and Artificial Intelligence student at Cairo University with a strong foundation in AI algorithm optimization, full-stack web development, and systems programming. I enjoy building scalable solutions and tackling real-world challenges.
 
-🚀 Currently seeking a **Summer 2025 Internship** where I can apply my algorithmic expertise and agile teamwork skills.
-
+<!--🚀 Currently seeking a **Summer 2025 Internship** where I can apply my algorithmic expertise and agile teamwork skills.
+-->
 ---
 
 ### 🎓 Education
