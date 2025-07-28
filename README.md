@@ -45,7 +45,8 @@ I'm a third-year Computer Science and Artificial Intelligence student at Cairo U
     *   Created a kernel module for QEMU to detect deadlocks, verified via system logs.
     *   Completed as a team-based systems programming project.
     *   *Note: University systems programming project. Happy to discuss the design and outcomes.*
-    
+
+<!--    
 ---
 
 ### 🌱 I'm Currently Learning
@@ -54,6 +55,7 @@ I'm a third-year Computer Science and Artificial Intelligence student at Cairo U
 *   Deepening my understanding of High Performance Computing.
 
 ---
+-->
 
 ### 📫 How to Reach Me:
 
