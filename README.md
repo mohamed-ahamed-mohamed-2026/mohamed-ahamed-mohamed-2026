@@ -16,8 +16,8 @@ I'm a third-year Computer Science and Artificial Intelligence student at Cairo U
 
 ### 🔧 Technologies & Tools
 
-*   **Languages:** C++, Python, Java, JavaScript, SQL, Prolog, C
-*   **Web Development:** HTML, CSS, JavaScript, Django, REST APIs
+*   **Languages:** C++, Python, Php, Java, JavaScript, SQL, Prolog, C
+*   **Web Development:** HTML, CSS, JavaScript, Django, Laravel, REST APIs
 *   **AI & Algorithms:** Minimax, Alpha-Beta Pruning, A* Search, BFS, DFS, Sorting (Merge, Quick), Linked Lists, Binary Search Trees, Heaps
 *   **Tools & Platforms:** Git, QEMU, Eclipse, Visual Studio Code, SQLite, Linux
 *   **Systems Programming:** Linux Kernel Development
@@ -31,9 +31,10 @@ I'm a third-year Computer Science and Artificial Intelligence student at Cairo U
     *   Collaborated in a 5-member team, delivering under tight deadlines.
     *   *Note: This was a university project. Code can be discussed and demonstrated upon request.*
 
-2.  **📝 Web-Based Task Manager (HTML, CSS, JavaScript, Django)**
-    *   Built a responsive web application with user authentication and task management for 10+ users, utilizing an SQLite backend.
-    *   Worked in a 5-member team employing agile practices.
+2.  **📝 Job Search Website (HTML, CSS, JavaScript, Django)**
+    *   Developed a full-stack web application enabling job postings and applications, with role-based functionality for Admin and Employee users, utilizing an SQLite backend.
+    *   Implemented Admin features for creating, updating, deleting, and deactivating job postings, and Employee features for browsing active jobs, applying, and tracking                applications via a profile page.
+    *   Connected Django’s database for managing jobs and applications, and used JavaScript for interactive features like job filtering and form submissions.
     *   *Note: Project details and demonstration available upon request.*
 
 3.  **✈️ Drone Navigation System (Prolog)**
@@ -49,7 +50,7 @@ I'm a third-year Computer Science and Artificial Intelligence student at Cairo U
 
 ### 🌱 I'm Currently Learning
 
-*   C# , Dot Net Backend
+*   C#, Dot Net Backend
 *   Deepening my understanding of High Performance Computing.
 
 ---
