@@ -1,6 +1,8 @@
 # Hi there, Mohamed Abdallah | Web Developer 👋
 
-I'm a third-year Computer Science and Artificial Intelligence student at Cairo University with a strong foundation in AI algorithm optimization, full-stack web development, and systems programming. I enjoy building scalable solutions and tackling real-world challenges.
+### About Me
+
+I’m a third-year Computer Science and Artificial Intelligence student at Cairo University, passionate about building scalable solutions in full-stack web development, AI algorithm optimization, and systems programming. Starting with HTML and CSS in preparatory school, I’ve grown into a full-stack PHP developer, creating secure and efficient web applications. I enjoy tackling real-world challenges through innovative code and collaborative projects.
 
 <!--🚀 Currently seeking a **Summer 2025 Internship** where I can apply my algorithmic expertise and agile teamwork skills.
 -->
