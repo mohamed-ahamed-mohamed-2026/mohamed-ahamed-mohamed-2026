@@ -69,7 +69,6 @@ I'm a third-year Computer Science and Artificial Intelligence student at Cairo U
 *   **LinkedIn:** [linkedin.com/in/mohamedahmed2026](https://linkedin.com/in/mohamedahmed2026)
 *   **Email:** mohamedahamed912@gmail.com
 
----
 
 <!-- Optional: GitHub Stats (e.g., using anuraghazra/github-readme-stats) 
 [![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-ahamed-mohamed-2026&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
