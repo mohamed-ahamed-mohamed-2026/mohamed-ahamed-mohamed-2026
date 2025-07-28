@@ -57,7 +57,7 @@ I'm a third-year Computer Science and Artificial Intelligence student at Cairo U
 ---
 -->
 
-### 📫 How to Reach Me:
+### 📫 Contact Me:
 
 *   **LinkedIn:** [linkedin.com/in/mohamedahmed2026](https://linkedin.com/in/mohamedahmed2026)
 *   **Email:** mohamedahamed912@gmail.com
