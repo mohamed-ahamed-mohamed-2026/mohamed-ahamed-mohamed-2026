@@ -1,75 +1,86 @@
-# Hi there, Mohamed Abdallah | Web Developer 👋
+# Mohamed Abdallah | Software Engineer & Web Developer
 
-### About Me
-
-I’m a third-year Computer Science and Artificial Intelligence student at Cairo University, passionate about building scalable solutions in full-stack web development, AI algorithm optimization, and systems programming. Starting with HTML and CSS in preparatory school, I’ve grown into a full-stack PHP developer, creating secure and efficient web applications. I enjoy tackling real-world challenges through innovative code and collaborative projects.
-
-<!--🚀 Currently seeking a **Summer 2025 Internship** where I can apply my algorithmic expertise and agile teamwork skills.
--->
----
-
-### 🎓 Education
-
-*  **B.S. in Computer Science and Artificial Intelligence** | Cairo University, Egypt
-    *   Expected Graduation: June 2026
-    *   GPA: 3.28/4.00 (First term / 2025)
-    *   *Relevant Coursework:* Structured Programming (A+), Data Structures (B+), Algorithms Analysis and Design (B+), Web Technology (B+), Artificial Intelligence (Ongoing), High Performance Computing (Ongoing)
----
-
-### 🔧 Skills
-
-*   **Languages:** C++, Python, Php, Java, JavaScript, SQL, Prolog, C
-*   **Web Development:** HTML, CSS, JavaScript, Django, Laravel, REST APIs
-*   **AI & Algorithms:** Minimax, Alpha-Beta Pruning, A* Search, BFS, DFS, Sorting (Merge, Quick), Linked Lists, Binary Search Trees, Heaps
-*   **Tools & Platforms:** Git, QEMU, Eclipse, Visual Studio Code, SQLite, Linux
-*   **Systems Programming:** Linux Kernel Development
+🎓 **B.Sc. in Computer Science & AI** – Cairo University (GPA: 3.26)  
+💻 Specializing in **Backend Development (Laravel/PHP, MySQL)** and **Algorithms**  
+🚀 Passionate about scalable web applications, AI problem-solving, and systems programming  
 
 ---
 
-### 🌟 Featured Projects
-
-1.  **🤖 Gomoku Game Solver (Python)**
-    *   Developed an AI-powered solver using Minimax and Alpha-Beta Pruning, achieving a 30% improvement in search efficiency.
-    *   Collaborated in a 5-member team, delivering under tight deadlines.
-    *   *Note: This was a university project. Code can be discussed and demonstrated upon request.*
-
-2.  **📝 Job Search Website (HTML, CSS, JavaScript, Django)**
-    *   Developed a full-stack web application enabling job postings and applications, with role-based functionality for Admin and Employee users, utilizing an SQLite backend.
-    *   Implemented Admin features for creating, updating, deleting, and deactivating job postings, and Employee features for browsing active jobs, applying, and tracking                applications via a profile page.
-    *   Connected Django’s database for managing jobs and applications, and used JavaScript for interactive features like job filtering and form submissions.
-    *   *Note: Project details and demonstration available upon request.*
-
-3.  **✈️ Drone Navigation System (Prolog)**
-    *   Designed a logic-based 5x5 grid solver for drone pathfinding using Depth-First Search (DFS).
-    *   *Note: Conceptual project from coursework. Implementation details can be discussed.*
- 
-4.  **🔒 Kernel Deadlock Detection (C, Linux Kernel)**
-    *   Created a kernel module for QEMU to detect deadlocks, verified via system logs.
-    *   Completed as a team-based systems programming project.
-    *   *Note: University systems programming project. Happy to discuss the design and outcomes.*
----
-
-
-### Offered Services 
-
-*   **Integrated Website**
----
-
-<!--    
----
-
-### 🌱 I'm Currently Learning
-
-*   C#, Dot Net Backend
-*   Deepening my understanding of High Performance Computing.
+## 🛠 Skills
+- **Languages:** C++, Python, PHP, Java, JavaScript, SQL, Prolog, C, Assembly  
+- **Web Development:** Laravel, Django, HTML, CSS, Bootstrap, REST APIs  
+- **AI & Algorithms:** Minimax, Alpha-Beta Pruning, A*, BFS, DFS, Sorting, Linked Lists, Trees, Heaps  
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Eclipse, QEMU, MARS Simulator  
+- **Systems Programming:** Linux Kernel Modules, Parallel Computing  
 
 ---
--->
 
-### 📫 Contact Me:
+## 🌟 Featured Projects
 
-*   **LinkedIn:** [linkedin.com/in/mohamedahmed2026](https://linkedin.com/in/mohamedahmed2026)
-*   **Email:** mohamedahamed912@gmail.com
+### 🧠 Gomoku Game Solver *(C++, Python)*
+- Developed an AI-based solver for the Gomoku board game.  
+- Implemented **Minimax search algorithm** with **Alpha-Beta Pruning** to reduce computation time.  
+- Optimized performance by **30%** compared to baseline DFS approach.  
+- Designed modular code to allow easy integration of heuristic evaluation functions.  
+- **Key concepts:** Game theory, heuristic design, search optimization.
+
+---
+
+### 📝 Job Search Website *(Django, HTML, CSS, JavaScript)*
+- Built a **full-stack job posting and application system** from scratch.  
+- Role-based access: **Admin** can add, edit, deactivate job posts; **Users** can search, apply, and track applications.  
+- Integrated Django ORM with SQLite for structured data management.  
+- Added **JavaScript filtering and AJAX** for smooth, no-refresh job search.  
+- Designed responsive UI using HTML, CSS (no frameworks).  
+- **Key concepts:** MVC pattern, CRUD operations, authentication, front-end validation.
+
+---
+
+### ✈️ Drone Navigation System *(Prolog)*
+- Created a **grid-based pathfinding system** for a simulated drone.  
+- Implemented **DFS**, **BFS**, and **A\*** algorithms for route calculation.  
+- Modeled **energy consumption** and **obstacle detection** constraints.  
+- Designed solution to select the optimal path based on both **distance** and **energy efficiency**.  
+- **Key concepts:** Search algorithms, AI problem modeling, logic programming.
+
+---
+
+### 🔒 Kernel Deadlock Detection *(C, Linux Kernel)*
+- Developed a **Linux kernel module** to detect deadlocks in concurrent processes.  
+- Integrated with **Lockdep** for kernel-level lock tracking.  
+- Tested in **QEMU virtual environment** with controlled multithreading scenarios.  
+- Logged detection results to kernel message buffer for developer review.  
+- **Key concepts:** Kernel development, concurrency, synchronization, debugging.
+
+---
+
+### 🛒 Online Supermarket System *(C++)*
+- Console-based application to manage supermarket inventory.  
+- Implemented inventory storage using **BST**, **AVL Trees**, and **Heaps** for optimized search and updates.  
+- Supported CRUD operations and file I/O for persistent storage.  
+- Team collaboration project — designed and implemented data structures module.  
+- **Key concepts:** Data structures, file handling, performance optimization.
+
+---
+
+### 🔢 Number System Converter *(MIPS Assembly)*
+- MIPS program to convert between binary, octal, decimal, and hexadecimal.  
+- Included **input validation** and conversion functions for all formats.  
+- Implemented as a team project using **MARS Simulator**.  
+- **Key concepts:** Assembly programming, base conversion, low-level I/O.
+
+---
+
+## 📜 Certifications
+- **Full Stack Web Development using PHP** – National Telecommunication Institute (120 hrs)  
+  Covered Laravel, MySQL, HTML, CSS, Bootstrap, JavaScript, and freelancing workflows.
+
+---
+
+## 📫 Contact
+- **LinkedIn:** [linkedin.com/in/mohamedahmed2026](https://linkedin.com/in/mohamedahmed2026)  
+- **Email:** mohamedahamed912@gmail.com  
+- **GitHub:** [github.com/mohamed-ahamed-mohamed-2026](https://github.com/mohamed-ahamed-mohamed-2026)  
 
 
 <!-- Optional: GitHub Stats (e.g., using anuraghazra/github-readme-stats) 
