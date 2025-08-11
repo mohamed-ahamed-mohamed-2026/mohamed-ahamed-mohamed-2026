@@ -72,7 +72,7 @@
 ---
 
 ## 📜 Certifications
-- **Full Stack Web Development using PHP** – National Telecommunication Institute (120 hrs)  
+### Full Stack Web Development using PHP – **National Telecommunication Institute** *(120 hrs)*  
 -Completed 120 hours of training: 90 technical hours + 30 freelancing hours.
 -Developed backend features using PHP (Laravel) and MySQL databases.
 -Built authentication systems and CRUD operations for real-world-style web projects.
