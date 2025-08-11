@@ -72,14 +72,15 @@
 ---
 
 ## 📜 Certifications
+
 ### Full Stack Web Development using PHP – **National Telecommunication Institute** *(120 hrs)*
--Completed 120 hours of training: 90 technical hours + 30 freelancing hours.
--Developed backend features using PHP (Laravel) and MySQL databases.
--Built authentication systems and CRUD operations for real-world-style web projects.
--Designed responsive UIs with HTML, CSS, Bootstrap, and JavaScript.
--Followed MVC architecture and clean coding practices.
--Gained practical freelancing insights for delivering client-ready projects.
--Achieved a final score of 85%.
+- Completed 120 hours of training: 90 technical hours + 30 freelancing hours.
+- Developed backend features using PHP (Laravel) and MySQL databases.
+- Built authentication systems and CRUD operations for real-world-style web projects.
+- Designed responsive UIs with HTML, CSS, Bootstrap, and JavaScript.
+- Followed MVC architecture and clean coding practices.
+- Gained practical freelancing insights for delivering client-ready projects.
+- Achieved a final score of 85%.
 
 ---
 
