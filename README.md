@@ -17,6 +17,16 @@
 
 ## 🌟 Featured Projects
 
+### 🏥 Doctor Reservation System (Vezeeta Clone) *(Laravel, MySQL, Bootstrap)*
+- Final team project of NTI Full-Stack Web Development training.  
+- Built a **Vezeeta-like doctor appointment system** with a 4-member team.  
+- Implemented patient registration, doctor search, profiles, and appointment booking.  
+- Added **admin panel** for managing doctors and appointments.  
+- **Key concepts:** Full-stack web app, MVC pattern, authentication, teamwork.  
+- [GitHub Repo](https://github.com/mariamhabashi/NTI-Final-Project)
+
+---
+
 ### 🧠 Gomoku Game Solver *(C++, Python)*
 - Developed an AI-based solver for the Gomoku board game.  
 - Implemented **Minimax search algorithm** with **Alpha-Beta Pruning** to reduce computation time.  
