@@ -78,11 +78,4 @@ Hi! I'm Mohamed, a **B.Sc. in Computer Science & AI** graduate from Cairo Univer
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-ahamed-mohamed-2026&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ahamed-mohamed-2026&layout=compact&theme=radical)  
-
----
-
 *I'm eager to collaborate on cutting-edge projects and bring my skills to impactful software solutions. Let's connect!*
