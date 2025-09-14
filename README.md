@@ -1,6 +1,6 @@
 # Mohamed Abdallah | Software Engineer & Web Developer
 
-Hi! I'm Mohamed, a **B.Sc. in Computer Science & AI** graduate from Cairo University (GPA: 3.26). I specialize in **backend development** (Laravel/PHP, MySQL) and **algorithms**, with a passion for building scalable web applications, solving AI-driven problems, and exploring systems programming. I'm excited to contribute to innovative software solutions and thrive in collaborative environments.
+Hi! I'm Mohamed, a **B.Sc. in Computer Science & AI** Student in Cairo University (GPA: 3.26). I specialize in **backend development** (Laravel/PHP, MySQL) and **algorithms**, with a passion for building scalable web applications, solving AI-driven problems, and exploring systems programming. I'm excited to contribute to innovative software solutions and thrive in collaborative environments.
 
 ---
 
