@@ -7,7 +7,7 @@ Hi! I'm Mohamed, a **B.Sc. in Computer Science & AI** Student in Cairo Universit
 ## 🛠 Technical Skills
 
 - **Languages**: C++, Python, PHP, Java, JavaScript, SQL, Prolog, C, Assembly  
-- **Web Development**: Laravel, Django, HTML, CSS, Bootstrap, REST APIs  
+- **Web Development**: Laravel, Django, HTML, CSS, Bootstrap, React.js, REST APIs  
 - **AI & Algorithms**: Minimax, Alpha-Beta Pruning, A*, BFS, DFS, Sorting, Linked Lists, Trees, Heaps  
 - **Tools**: Git, GitHub, VS Code, IntelliJ IDEA, Eclipse, QEMU, MARS Simulator  
 - **Systems Programming**: Linux Kernel Modules, Parallel Computing  
