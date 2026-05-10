@@ -21,7 +21,7 @@ Hi! I'm Mohamed, a **B.Sc. in Computer Science & AI** Student in Cairo Universit
 - Built a full-stack doctor appointment system as a team project for NTI training.  
 - Features include patient registration, doctor search, profiles, and appointment booking with an admin panel.  
 - Applied MVC architecture and authentication for a secure, user-friendly experience.  
-- [GitHub Repository](https://github.com/mariamhabashi/NTI-Final-Project)  
+- [GitHub Repository](https://github.com/mohamed-ahamed-mohamed-2026/NTI-Final-Project)  
 
 ### 🧠 Gomoku Game Solver  
 *Technologies: C++, Python*  
