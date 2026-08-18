@@ -15,7 +15,7 @@ I am a Backend Software Engineer and Computer Science graduate from Cairo Univer
 
 #### 🔹 WebSploit: Bug Bounty Automation Framework (Graduation Project)
 *A distributed security reconnaissance platform architected to automate complex vulnerability discovery workflows.*
-* **Infrastructure Stack:** Python, Django, Celery, Redis, Django Channels, PostgreSQL, Docker
+* **Stack:** Python, Django, Celery, Redis, Django Channels, PostgreSQL, Docker
 * **Backend Architecture & Engineering Focus:**
   * **Distributed Task Execution:** Engineered an asynchronous, distributed execution pipeline utilizing Celery workers and Redis as an in-memory message broker to decouple and run resource-heavy, blocking security CLI tools (`ffuf`, `httpx`, `jsluice`) in parallel.
   * **Real-time Event Streaming:** Designed a bidirectional, low-latency communication layer using Django Channels (WebSockets) to capture subprocess terminal outputs and stream real-time task progress logs back to the client interface.
@@ -25,7 +25,7 @@ I am a Backend Software Engineer and Computer Science graduate from Cairo Univer
 
 #### 🔹 Doctor Reservation System (Vezeeta Clone)
 *A secure, multi-role healthcare scheduling engine engineered to manage concurrent patient appointments.*
-* **Infrastructure Stack:** PHP (Laravel 11), MySQL, Eloquent ORM, Carbon API
+* **Stack:** PHP (Laravel 11), MySQL, Eloquent ORM, Carbon API
 * **Backend Architecture & Engineering Focus:**
   * **Role-Based Access Control (RBAC):** Built robust security boundaries by writing custom Laravel middleware to tightly intercept and validate multi-role token routes (Admin, Doctor, Patient) prior to controller execution.
   * **Schedule Generation Algorithm:** Developed high-accuracy time-slot generation logic using the Carbon library, processing temporal constraints to eliminate appointment overlapping and double-booking race conditions across active Eloquent storage rows.
